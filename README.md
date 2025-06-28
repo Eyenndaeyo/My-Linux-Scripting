@@ -7,6 +7,7 @@ https://github.com/Eyenndaeyo/My-Linux-Scripting/blob/02639342eda3347836c1f1c7ba
 
 
 ![image alt](https://github.com/Eyenndaeyo/My-Vagrant/blob/1dc6dddb40e49161ebe27eb0ee52d87d8fb47dfa/Screenshot%201.jpg)
+https://github.com/Eyenndaeyo/My-Linux-Scripting/blob/9645d25eb2248493f1cce99cfbdef4bf67415372/Snip%204%20exit.jpg
 
 
 ![image alt](https://github.com/Eyenndaeyo/My-Vagrant/blob/1dc6dddb40e49161ebe27eb0ee52d87d8fb47dfa/Screenshot%201.jpg)
